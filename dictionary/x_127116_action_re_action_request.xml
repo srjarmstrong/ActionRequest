@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Action Request" max_length="40" name="x_127116_action_re_action_request" type="collection"/>
+</database>

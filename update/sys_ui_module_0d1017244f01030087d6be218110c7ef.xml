@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Action Request">091017244f01030087d6be218110c7ed</application>
+        <filter/>
+        <name>Action Requests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_127116_action_re.action_request_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-03 23:42:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0d1017244f01030087d6be218110c7ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Action Requests</sys_name>
+        <sys_package display_value="Action Request" source="x_127116_action_re">c10f43e04f01030087d6be218110c744</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Action Request">c10f43e04f01030087d6be218110c744</sys_scope>
+        <sys_update_name>sys_ui_module_0d1017244f01030087d6be218110c7ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-03 23:42:42</sys_updated_on>
+        <table>x_127116_action_re_action_request</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
